@@ -1,0 +1,240 @@
+SplineFontDB: 3.0
+FontName: degueule
+FullName: degueule
+FamilyName: degueule
+Weight: Regular
+Copyright: Copyright (c) 2014, Je're'my Landes-Nones
+UComments: "2014-7-27: Created with FontForge (http://fontforge.org)" 
+Version: 001.000
+StrokeWidth: 50
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+StrokedFont: 1
+XUID: [1021 821 -79046526 10142489]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1406450755
+ModificationTime: 1406456177
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 22 22 11
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 501 m 4
+ 2000 501 l 1028
+-1000 252 m 0
+ 2000 252 l 1024
+EndSplineSet
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 7
+
+StartChar: e
+Encoding: 101 101 0
+Width: 1000
+VWidth: 0
+Flags: WO
+LayerCount: 2
+Back
+SplineSet
+925 186 m 29
+ 1065 310 l 1053
+-76 186 m 29
+ 64 310 l 1053
+EndSplineSet
+Fore
+SplineSet
+0 252 m 0
+ 117 360 367 327 367 437 c 0
+ 367 488.624023438 333 521 265 521 c 0
+ 153.196289062 521 135 409.307617188 135 297 c 0
+ 135 133 334.26953125 63 475 63 c 0
+ 617 63 871 140 1000 252 c 1024
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 1
+Width: 970
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+679 309 m 28
+ 557 230 414.239257812 269.875 347 141 c 4
+ 311 72 339 -13 439 -13 c 4
+ 510.568359375 -13 611 59 643 143 c 1028
+0 252 m 4
+ 91 303.596679688 318 527 539 527 c 4
+ 617 527 699 487 699 419 c 4
+ 699 325 668.809570312 260.576171875 643 143 c 4
+ 625 61 632 33 694 33 c 4
+ 776 33 891.447265625 164.595703125 970 252 c 1028
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 2
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+925 436 m 25
+ 1065 560 l 1049
+-76 436 m 25
+ 64 560 l 1049
+EndSplineSet
+Fore
+SplineSet
+0 252 m 4
+ 121 357 147 435 195 435 c 4
+ 307 435 53 37 133 37 c 4
+ 215 37 321 503 485 503 c 4
+ 633.7578125 503 477.15234375 177.388671875 615 123 c 4
+ 762 65 881 153 1000 252 c 1028
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 3
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+925 184 m 29
+ 1065 308 l 1053
+-76 184 m 29
+ 64 308 l 1053
+EndSplineSet
+Fore
+SplineSet
+0 252 m 0
+ 111 342 189.181640625 458 255 458 c 0
+ 345 458 175 400 175 252 c 0
+ 175 142.232421875 249 56 377 56 c 0
+ 498.202148438 56 587 214 587 326 c 0
+ 587 440 514.983398438 482 453 482 c 0
+ 405 482 373 438 373 394 c 0
+ 373 252 639 150 747 150 c 0
+ 803 150 921 173 1000 252 c 1024
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 4
+Width: 578
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+506 186 m 29
+ 646 310 l 1053
+-76 186 m 25
+ 64 310 l 1049
+EndSplineSet
+Fore
+SplineSet
+0 252 m 0
+ 98 350 182 420 296 501 c 1
+ 210 446 172 416 172 354 c 0
+ 172 252 389 285.513671875 389 188 c 0
+ 389 110 354 54 296 0 c 1
+ 418 106 494 166 578 252 c 1024
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 5
+Width: 781
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+710 186 m 29
+ 850 310 l 1053
+-76 186 m 25
+ 64 310 l 1049
+EndSplineSet
+Fore
+SplineSet
+0 252 m 0
+ 188 423 247.166015625 574 312 574 c 0
+ 346 574 359.209960938 541.984375 356 501 c 0
+ 343 335 143 252 143 90 c 0
+ 143 31.9912109375 184.331054688 0 243 0 c 0
+ 391 0 497 196 497 308 c 0
+ 497 352.77734375 483 380 449 380 c 0
+ 409 380 393 355.150390625 393 322 c 0
+ 393 238 457.908203125 148 593 148 c 0
+ 667 148 717 188 783 252 c 1024
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 6
+Width: 612
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+533 186 m 29
+ 673 310 l 1053
+-76 186 m 25
+ 64 310 l 1049
+EndSplineSet
+Fore
+SplineSet
+297 712 m 24
+ 278 630 273 580 249 501 c 1
+ 268 549 283 580 320 580 c 0
+ 456 580 364 38 609 252 c 1025
+0 252 m 0
+ 78 313 135 424 185 424 c 0
+ 231.325195312 424 235 390 217 318 c 0
+ 187.157226562 198.62890625 176.278320312 162.828125 159 39 c 0
+ 153 -4 177 -75 215 -95 c 1024
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1406388710
-ModificationTime: 1406390899
+ModificationTime: 1406391656
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -125,9 +125,9 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 4
-Width: 1000
+Width: 862
 VWidth: 0
-Flags: HO
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet

@@ -1,0 +1,161 @@
+SplineFontDB: 3.0
+FontName: degueule
+FullName: degueule
+FamilyName: degueule
+Weight: Regular
+Copyright: Copyright (c) 2014, Je're'my Landes-Nones
+UComments: "2014-7-27: Created with FontForge (http://fontforge.org)" 
+Version: 001.000
+StrokeWidth: 50
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+StrokedFont: 1
+XUID: [1021 821 -79046526 10142489]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1406450755
+ModificationTime: 1406454403
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 22 22 11
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 501 m 4
+ 2000 501 l 1028
+-1000 252 m 0
+ 2000 252 l 1024
+EndSplineSet
+TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 256 4
+
+StartChar: e
+Encoding: 101 101 0
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+925 436 m 29
+ 1065 560 l 1053
+-76 436 m 29
+ 64 560 l 1053
+EndSplineSet
+Fore
+SplineSet
+0 252 m 4
+ 91 303 367 327 367 437 c 4
+ 367 488.624023438 333 521 265 521 c 4
+ 153.196289062 521 135 409.307617188 135 297 c 4
+ 135 133 334.26953125 63 475 63 c 4
+ 617 63 871 140 1000 252 c 1028
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 1
+Width: 970
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+679 309 m 28
+ 557 230 414.239257812 269.875 347 141 c 4
+ 311 72 339 -13 439 -13 c 4
+ 510.568359375 -13 611 59 643 143 c 1028
+0 252 m 4
+ 91 303.596679688 318 527 539 527 c 4
+ 617 527 699 487 699 419 c 4
+ 699 325 668.809570312 260.576171875 643 143 c 4
+ 625 61 632 33 694 33 c 4
+ 776 33 891.447265625 164.595703125 970 252 c 1028
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 2
+Width: 1000
+VWidth: 0
+Flags: WO
+LayerCount: 2
+Back
+SplineSet
+925 436 m 25
+ 1065 560 l 1049
+-76 436 m 25
+ 64 560 l 1049
+EndSplineSet
+Fore
+SplineSet
+0 252 m 4
+ 121 357 147 435 195 435 c 4
+ 307 435 53 37 133 37 c 4
+ 215 37 321 503 485 503 c 4
+ 633.7578125 503 477.15234375 177.388671875 615 123 c 4
+ 762 65 881 153 1000 252 c 1028
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 3
+Width: 1000
+VWidth: 0
+LayerCount: 2
+Back
+SplineSet
+925 184 m 29
+ 1065 308 l 1053
+-76 184 m 29
+ 64 308 l 1053
+EndSplineSet
+Fore
+SplineSet
+0 501 m 4
+ 111 591 189.181640625 707 255 707 c 4
+ 345 707 175 649 175 501 c 4
+ 175 391.232421875 249 305 377 305 c 4
+ 498.202148438 305 587 463 587 575 c 4
+ 587 638.158203125 580.983398438 719 519 719 c 4
+ 481 719 477 699 477 665 c 4
+ 477 611 639 399 747 399 c 4
+ 803 399 921 422 1000 501 c 1028
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

@@ -1,16 +1,9 @@
-StartChar: E
-Encoding: 69 69 9
+StartChar: q
+Encoding: 113 113 54
 Width: 1000
 VWidth: 0
 Flags: W
 LayerCount: 2
-Back
-SplineSet
-710 186 m 29
- 850 310 l 1053
--76 186 m 29
- 64 310 l 1053
-EndSplineSet
 Fore
 SplineSet
 925 436 m 29

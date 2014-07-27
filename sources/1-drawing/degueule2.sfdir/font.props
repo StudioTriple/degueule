@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1406450755
-ModificationTime: 1406457238
+ModificationTime: 1406477042
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,8 +55,8 @@ WinInfo: 22 22 11
 BeginPrivate: 0
 EndPrivate
 Grid
--1000 501 m 4
- 2000 501 l 1028
+-1000 501 m 0
+ 2000 501 l 1024
 -1000 252 m 0
  2000 252 l 1024
 EndSplineSet

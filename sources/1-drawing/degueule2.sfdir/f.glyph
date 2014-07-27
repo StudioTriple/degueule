@@ -1,0 +1,14 @@
+StartChar: f
+Encoding: 102 102 43
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Back
+SplineSet
+925 186 m 29
+ 1065 310 l 1053
+-76 186 m 29
+ 64 310 l 1053
+EndSplineSet
+EndChar

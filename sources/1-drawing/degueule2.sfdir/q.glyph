@@ -1,0 +1,19 @@
+StartChar: q
+Encoding: 113 113 51
+Width: 579
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+579 252 m 0
+ 486 173 335 78 325 -52 c 1024
+259 524 m 0
+ 189 470 168 433 163 358 c 24
+ 159 296 176 221 239 218 c 24
+ 314 214 369 252 383 346 c 1
+ 357 188 338 48 309 -142 c 1048
+0 252 m 24
+ 66 306 103 336 169 390 c 1048
+EndSplineSet
+EndChar

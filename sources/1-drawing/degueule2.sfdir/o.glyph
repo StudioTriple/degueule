@@ -2,6 +2,7 @@ StartChar: o
 Encoding: 111 111 3
 Width: 1000
 VWidth: 0
+Flags: W
 LayerCount: 2
 Back
 SplineSet
@@ -12,8 +13,8 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-0 252 m 0
- 111 342 189.181640625 458 255 458 c 0
+0 252 m 4
+ 127 356 189.181640625 458 255 458 c 0
  345 458 175 400 175 252 c 0
  175 142.232421875 249 56 377 56 c 0
  498.202148438 56 587 214 587 326 c 0

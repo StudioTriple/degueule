@@ -1,7 +1,25 @@
 StartChar: j
-Encoding: 106 106 46
-Width: 1000
+Encoding: 106 106 17
+Width: 924
 VWidth: 0
 Flags: W
 LayerCount: 2
+Back
+SplineSet
+826 164 m 29
+ 966 288 l 1053
+-94 169 m 25
+ 46 293 l 1049
+EndSplineSet
+Fore
+SplineSet
+612 712 m 24
+ 593 630 588 580 564 501 c 1
+ 583 549 598 580 635 580 c 0
+ 771 580 679 38 924 252 c 1025
+0 252 m 0
+ 144 381 480 589 560 501 c 0
+ 640 413 590 112 376 -102 c 0
+ 365.392796667 -112.607203333 204 170 474 286 c 1024
+EndSplineSet
 EndChar
